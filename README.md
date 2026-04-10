@@ -1,97 +1,106 @@
-# 👋 Hi, I'm Arthur Poucheu Patio
-
-🎓 Master's student in Applied Mathematics & Machine Learning at Paris-Saclay  
-📍 Based in Paris, France  
-📊 Passionate about data, modeling, and building impactful solutions  
+# Arthur Poucheu Patio
 
 ---
 
-## 🚀 About Me
+## À propos
 
-I'm a data-driven problem solver with a strong foundation in **mathematics, statistics, and computer science**.
+Étudiant en **Master Mathématiques et Interactions** à l’Université Paris-Saclay, je me spécialise en **modélisation probabiliste, statistique et machine learning**.
 
-I enjoy transforming raw data into actionable insights and building tools that automate and optimize decision-making processes.
-
-- 📈 Interested in **data science, quantitative analysis, and machine learning**
-- 🧠 Strong analytical mindset with a focus on **real-world applications**
-- 🌍 Engaged in **impact-driven projects** (education & humanitarian work)
+Je m’intéresse aux problématiques de **data science et de finance quantitative**, avec une approche rigoureuse visant à transformer des données complexes en outils d’aide à la décision.
 
 ---
 
-## 🛠️ Skills
+## Domaines d’intérêt
 
-**Languages & Tools**
-- Python (Pandas, Matplotlib)
-- R, C++
-- SQL (basic)
-- Excel (data modeling)
-- LaTeX, PowerPoint, PHP
-
-**Core Competencies**
-- Data Analysis & Visualization  
-- Predictive Modeling  
-- Statistics & Optimization  
-- Data Cleaning & Automation  
-
-**Languages**
-- 🇫🇷 French (native)
-- 🇬🇧 English (fluent)
-- 🇪🇸 Spanish (intermediate)
+- Data Science  
+- Machine Learning  
+- Finance Quantitative  
+- Modélisation statistique  
+- Optimisation  
 
 ---
 
-## 💼 Experience
+## Compétences
 
-### 📊 Data Analysis Intern — Fitch Group (London)
-- Analyzed financial datasets to uncover **market trends**
-- Built **Excel-based models** to support reporting
-- Contributed to **budgeting & financial planning**
+**Programmation**  
+Python (Pandas, Matplotlib) · R · C++  
 
-### 🎓 Teaching Assistant — Sorbonne University
-- Taught **Statistics & Linear Algebra**
-- Led problem-solving sessions and mentored students
+**Analyse de données**  
+Nettoyage de données · Visualisation · Modélisation  
 
-### 🌍 Project Coordinator — Miswaki Harmony Association
-- Managed humanitarian projects (Africa & Asia)
-- Led fundraising initiatives and coordinated a **20-member team**
-- Provided educational support to underprivileged children
+**Mathématiques**  
+Probabilités · Statistiques · Optimisation  
+
+**Outils**  
+Excel · SQL (notions) · LaTeX  
 
 ---
 
-## 📂 Projects
+## Projets
 
-### 🔧 Business Data Automation Project
-**Automated Data Cleaning & Reporting Workflow**
+### Automatisation de données et reporting *(2025)*
 
-- Built a Python pipeline to **clean and process business data**
-- Developed automated reporting tools for **decision-making**
-- Reduced manual workload through **data validation & automation**
+Développement d’un pipeline de traitement de données permettant :
 
-👉 *More projects coming soon...*
+- le nettoyage automatisé de jeux de données  
+- la génération de rapports analytiques  
+- l’optimisation des processus de traitement  
 
----
-
-## 🎓 Education
-
-- 🎓 **MSc in Mathematics & Interactions** — Paris-Saclay *(2025–Present)*  
-  Focus: Machine Learning, Probability, Optimization  
-
-- 🎓 **BSc MIASHS** — Sorbonne University *(2022–2025)*  
-  Mathematics, Computer Science, Economics  
+**Technologies :** Python  
 
 ---
 
-## 📫 Contact Me
+## Expérience
+
+### Fitch Group — Data Analysis Intern  
+*Londres, 2023*  
+
+- Analyse de données financières  
+- Identification de tendances de marché  
+- Contribution à des rapports analytiques  
+
+---
+
+### Université Paris 1 — Chargé de TD  
+*2024 – 2025*  
+
+- Enseignement des statistiques et de l’algèbre linéaire  
+- Encadrement d’étudiants  
+
+---
+
+### Miswaki Harmony Association — Coordinateur de projets  
+*2024 – 2025*  
+
+- Gestion de projets humanitaires internationaux  
+- Coordination d’équipe  
+- Organisation d’événements  
+
+---
+
+## Formation
+
+**Université Paris-Saclay**  
+Master Mathématiques et Interactions *(2025 – présent)*  
+
+**Université Paris 1 Panthéon-Sorbonne**  
+Licence MIASHS *(2022 – 2025)*  
+
+---
+
+## Langues
+
+Français · Anglais · Espagnol  
+
+---
+
+## Contact
 
 - 📧 arthurpoucheuu@gmail.com  
-- 💼 [LinkedIn](#) *www.linkedin.com/in/arthur-poucheu-patio-308a58210*  
+- 🔗 https://www.linkedin.com/in/arthur-poucheu-patio-308a58210  
 
 ---
 
-## ⚡ Fun Fact
+## Note
 
-I combine **analytical thinking with creativity**, whether it's through coding, teaching, or working on meaningful projects.
-
----
-
-⭐️ *Feel free to explore my repositories and connect!*
+Ce dépôt regroupe mes travaux en **data science, analyse quantitative et modélisation**, avec un accent particulier sur la rigueur mathématique et l’efficacité des solutions développées.
