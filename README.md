@@ -84,7 +84,7 @@ I enjoy transforming raw data into actionable insights and building tools that a
 ## 📫 Contact Me
 
 - 📧 arthurpoucheuu@gmail.com  
-- 💼 [LinkedIn](#) **  
+- 💼 [LinkedIn](#) *www.linkedin.com/in/arthur-poucheu-patio-308a58210*  
 
 ---
 
